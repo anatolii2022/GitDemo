@@ -96,6 +96,8 @@ public class HandlingBrokenLinks {
 
 		driver.quit();
 		// SoftAssert let the test pass and not to fail but shows the assertion error
+		// SoftAssert let the test pass and not to fail but shows the assertion error
+		// SoftAssert let the test pass and not to fail but shows the assertion error
 		soft.assertAll();
 
 	}
